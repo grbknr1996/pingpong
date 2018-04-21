@@ -1,4 +1,4 @@
-<h>Ping Pong Game<h>
+<h1>Ping Pong Game<h1>
 To run the game, just install jdk 1.8
 and run Main.java
 using javac Main.java
