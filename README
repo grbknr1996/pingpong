@@ -1,2 +1,5 @@
-to run the game, just do
-$ ant
+<h>Ping Pong Game<h>
+To run the game, just install jdk 1.8
+and run Main.java
+using javac Main.java
+java Main
